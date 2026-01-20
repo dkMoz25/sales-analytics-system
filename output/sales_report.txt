@@ -1,0 +1,33 @@
+Overall Summary
+
+    Total Revenue: ₹1,607,567.00
+    Total Transactions: 72
+    Average Order Value: ₹22,327.32
+    Date Range: December 1-31, 2024
+
+Region-wise Performance
+
+    East: ₹436,835 (27.17%, 17 transactions)
+    North: ₹407,368 (25.34%, 19 transactions)
+    West: ₹421,929 (26.25%, 17 transactions)
+    South: ₹341,435 (21.24%, 19 transactions)
+
+Top 5 Products by Quantity
+
+    USB-C Cable: 65 units (₹29,185)
+    Wireless Mouse: 57 units (₹74,043)
+    Wireless Keyboard: 35 units (₹87,465)
+    HD Webcam: 30 units (₹104,970)
+    Laptop Charger: 29 units (₹86,971)
+
+Top 5 Customers by Spending
+
+    C001: ₹158,989 (3 orders)
+    C025: ₹149,993 (2 orders)
+    C028: ₹126,996 (2 orders)
+    C007: ₹101,490 (3 orders)
+    C004: ₹88,493 (3 orders)
+
+Best Selling Day
+
+December 1, 2024: ₹138,491 revenue from 3 transactions

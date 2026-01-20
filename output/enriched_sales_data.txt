@@ -1,0 +1,13 @@
+Sample:
+
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region|API_Category|API_Brand|API_Rating|API_Match
+T001|2024-12-01|P101|Premium Laptop|2|59999.0|C001|North|laptops|Apple|4.57|True
+T002|2024-12-01|P103|Wireless Keyboard|5|2499.0|C002|South|accessories|Logitech|4.25|True
+T003|2024-12-02|P104|27-inch Monitor|1|18999.0|C003|East|monitors|Dell|4.68|True
+
+This file contains 72 valid transaction records (after filtering out 7 invalid records from the original 77) with API enrichment. Each record includes the original 8 columns plus 4 new API-enriched columns.
+
+Key Statistics:
+Total valid records: 72
+API enrichment success rate: 100%
+All products successfully matched with API data
